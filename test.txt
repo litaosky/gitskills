@@ -1,6 +1,2 @@
 just a test
-<<<<<<< HEAD
 add a apple
-=======
-add a apple
->>>>>>> feature1
