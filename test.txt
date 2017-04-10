@@ -1,2 +1,6 @@
 just a test
-add a pig
+<<<<<<< HEAD
+add a apple
+=======
+add a apple
+>>>>>>> feature1
